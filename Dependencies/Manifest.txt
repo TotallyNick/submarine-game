@@ -1,0 +1,3 @@
+This explains what each of these files are here to do
+
+FBX2gITF-windows is here to enable the use of blender FBX files
